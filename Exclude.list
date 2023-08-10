@@ -2,7 +2,8 @@
 # AUTHOR: binghe3337
 # REPO: https://github.com/binghe3337/Exclude
 # UPDATED: 2023-08-10 21:33:00
-# HOST-SUFFIX: 2
-# TOTAL: 2
+# HOST-SUFFIX: 3
+# TOTAL: 3
 HOST-SUFFIX,app.10099.com.cn,Exclude
 HOST-SUFFIX,dutils.com,Exclude
+HOST-SUFFIX,cmpassport.com,Exclude
